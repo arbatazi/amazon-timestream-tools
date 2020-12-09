@@ -3,9 +3,9 @@
    "actions": [
      {
        "timestream": {
-           "roleArn": "REPLACE_WITH_YOUR_ROLE_ARN",
-           "databaseName": "REPLACE_WITH_YOUR_DB_NAME",
-           "tableName": "REPLACE_WITH_YOUR_TABLE_NAME",
+           "roleArn": "arn:aws:iam::448878779811:role/service-role/IoTTimestreamIntegration-IoTDataToTimestreamRole-A5X4DG3WEM2P",
+           "databaseName": "TimestreamDataBase-TWP1HLq3bWRL",
+           "tableName": "TimestreamTable-Kgqc69pxy9cc",
            "dimensions": [
                {
                    "name": "device_id",
